@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-15T15:37:44 CST" name="Default suite" finished-at="2022-03-15T15:38:01 CST" duration-ms="16459">
+  <suite started-at="2022-03-15T17:20:26 CST" name="Default suite" finished-at="2022-03-15T17:20:43 CST" duration-ms="17538">
     <groups>
     </groups>
-    <test started-at="2022-03-15T15:37:44 CST" name="Default test" finished-at="2022-03-15T15:38:01 CST" duration-ms="16459">
+    <test started-at="2022-03-15T17:20:26 CST" name="Default test" finished-at="2022-03-15T17:20:43 CST" duration-ms="17538">
       <class name="tests.TestRunner">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestRunner@7e7be63f]" started-at="2022-03-15T15:37:44 CST" name="setUp" finished-at="2022-03-15T15:37:53 CST" duration-ms="8877" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestRunner@618425b5]" started-at="2022-03-15T17:20:26 CST" name="setUp" finished-at="2022-03-15T17:20:35 CST" duration-ms="9698" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testBuyAPhone()[pri:0, instance:tests.TestRunner@7e7be63f]" started-at="2022-03-15T15:37:53 CST" name="testBuyAPhone" finished-at="2022-03-15T15:37:58 CST" duration-ms="5405" status="PASS">
+        <test-method signature="testBuyAPhone()[pri:0, instance:tests.TestRunner@618425b5]" started-at="2022-03-15T17:20:35 CST" name="testBuyAPhone" finished-at="2022-03-15T17:20:41 CST" duration-ms="5653" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuyAPhone -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestRunner@7e7be63f]" started-at="2022-03-15T15:37:58 CST" name="tearDown" finished-at="2022-03-15T15:38:01 CST" duration-ms="2143" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.TestRunner@618425b5]" started-at="2022-03-15T17:20:41 CST" name="tearDown" finished-at="2022-03-15T17:20:43 CST" duration-ms="2153" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

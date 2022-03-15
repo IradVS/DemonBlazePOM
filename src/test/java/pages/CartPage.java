@@ -28,22 +28,22 @@ public class CartPage {
 	@FindBy(xpath = "//*[@id='orderModal']/div/div/div[3]/button[2]")
 	WebElement purchaseBtn;
 
-	@FindBy(xpath = "//*[@id='name']")
+	@FindBy(id = "name")
 	WebElement inputName;
 
-	@FindBy(xpath = "//*[@id='country']")
+	@FindBy(id = "country")
 	WebElement inputCountry;
 
-	@FindBy(xpath = "//*[@id='city']")
+	@FindBy(id = "city")
 	WebElement inputCity;
 
-	@FindBy(xpath = "//*[@id='card']")
+	@FindBy(id = "card")
 	WebElement inputCreditCard;
 
-	@FindBy(xpath = "//*[@id='month']")
+	@FindBy(id = "month")
 	WebElement inputMonth;
 
-	@FindBy(xpath = "//*[@id='year']")
+	@FindBy(id = "year")
 	WebElement inputYear;
 
 	@FindBy(xpath = "/html/body/div[10]/h2")
